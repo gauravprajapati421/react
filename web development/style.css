@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(174, 212, 201);
+    color: rgb(31, 31, 35);
+}
+ 
+h1{
+      /* background-color: rgb(136, 5, 5); */ 
+    color: rgb(194, 17, 17) ;
+  } 
+
+h2{
+  color: blue;
+}
+  
+p1{
+  color: rgb(79, 25, 187);
+  border-style :double;
+} 
