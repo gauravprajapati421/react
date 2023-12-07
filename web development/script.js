@@ -1,1 +1,1 @@
-alert("Welcome to the Apna Restaurant")
+// alert("Welcome to the Apna Restaurant")
