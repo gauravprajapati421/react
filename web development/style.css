@@ -60,21 +60,20 @@ h1{
   height: 370px;
   border-radius: 6px;
   padding: 0 0 34px 0;
-  margin: 40px;
+  /* margin: 40px; */
   text-align: center;  
   cursor: pointer;
 }
 
-/* .image :hover{
+.image :hover{
   transform: scale(1.05);
-} */
+}
 
 .image{
-  padding: 9px;
+  /* padding: 9px; */
 }
 .image img{
-  border-radius: 200px;
-
+  border-radius: 500px;
 }
 
 .capsule{
@@ -93,8 +92,11 @@ h1{
 
 .container{
   display: flex;
-  justify-content: center;
+  justify-items: center;
   margin-bottom: 190px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 44px;
 }
 
 .text span{
@@ -110,14 +112,13 @@ h1{
   cursor: pointer;
 }
 
-/* .img :hover{
+.img :hover{
   transform: scale(1.05);
-} */
+}
 
 .text :first-child{
   font-weight: 600;
   font-size: 50px;
-  /* background-color: rgb(70, 188, 188); */
 }
 
 .text :nth-child(2){
