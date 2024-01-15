@@ -1,0 +1,8 @@
+{
+    "window.autoDetectColorScheme": true,
+    "screencastMode.fontSize": 56,
+    "editor.fontSize": 20,
+    "editor.tabSize": 4,
+    "editor.mouseWheelZoom": true,
+    "workbench.editor.enablePreview": false
+}
